@@ -1,0 +1,33 @@
+html{
+  background-color: #141414;
+  color: #fff;
+  padding: 0;
+  margin: 0;
+}
+.container{
+  width: 97vw;
+  height: 97vh;
+  overflow: hidden;
+}
+
+.card-bg{
+  background-color: #1f1f1f;
+}
+
+.link-bg{
+  background-color: #333;
+}
+
+.neon{
+  color: #c4f82a;
+}
+
+.link{
+  text-decoration: none;
+  color: white;
+  font-weight: 600;
+}
+
+.link:hover{
+  color: #c4f82a;
+}
